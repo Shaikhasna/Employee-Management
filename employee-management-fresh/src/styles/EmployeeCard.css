@@ -1,0 +1,12 @@
+/* src/styles/EmployeeCard.css */
+.employee-card {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #ddd;
+  }
+  
+  .employee-card h2 {
+    color: #333;
+  }
+  
